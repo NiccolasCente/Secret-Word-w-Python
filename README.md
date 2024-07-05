@@ -7,9 +7,9 @@ Create a game for the user to guess the secret word.
     - If the typed letter is not in the secret word; display *.
 Keep track of the user's attempts.
 
-<h1>Secret Word(Palavra Secreta) Com Python</h1>
+<h1>Secret Word(Palavra Secreta) Com Python(Português - Brasil)</h1>
 
-"""
+
 Faça um jogo para o usuário adivinhar qual
 a palavra secreta.
 - Você vai propor uma palavra secreta
